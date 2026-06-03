@@ -1,4 +1,4 @@
-# -SCT_CS_01
+# SCT_CS_01
 # SkillCraft Technology Cyber Security Internship 
 ## Task 1  Name: Alle Ranaveer  
 Track: Cyber Security  
